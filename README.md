@@ -1,0 +1,2 @@
+# ravisoni
+python qrcode generator
